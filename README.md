@@ -1,5 +1,5 @@
 # Mental Health Website
-###
+### College project brief
 
 You have been tasked with raising awareness of mental health amongst students and the impact it has on their daily lives at the college.
 
